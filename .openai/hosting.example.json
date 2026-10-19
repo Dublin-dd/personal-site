@@ -1,0 +1,6 @@
+{
+  "project_id": "YOUR_OPENAI_PROJECT_ID",
+  "static": {
+    "directory": "dist"
+  }
+}

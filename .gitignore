@@ -1,0 +1,2 @@
+# OpenAI 托管配置（含敏感 project_id，不提交真实值）
+.openai/hosting.json
